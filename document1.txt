@@ -14,10 +14,8 @@ def partition(l, r, nums):
 # at which the left values are all smaller than the number at pointer index and vice versa
 # for the right values.
 
-print(hello world)
-print(hello world)
-print(hello world)
 
+#11213113
  
  
 def quicksort(l, r, nums):
