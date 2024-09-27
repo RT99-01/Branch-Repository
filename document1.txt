@@ -15,7 +15,13 @@ def partition(l, r, nums):
 # for the right values.
 
 
-#11213113
+def add_numbers(a, b):
+    return a + b
+
+num1 = 5
+num2 = 3
+result = add_numbers(num1, num2)
+print("두 수의 합:", result)
  
  
 def quicksort(l, r, nums):
