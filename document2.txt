@@ -2,6 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+print("ROOT99")
+print("GUGU")
+
 // Merges two subarrays of arr[].
 // First subarray is arr[l..m]
 // Second subarray is arr[m+1..r]
